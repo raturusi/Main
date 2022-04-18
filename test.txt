@@ -5,3 +5,4 @@ test
 =======
 'test2' 
 >>>>>>> 31f423df5428337fbc0f76ddcb3abd6d3fb52326
+'stash' 
